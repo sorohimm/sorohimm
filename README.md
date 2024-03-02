@@ -1,7 +1,5 @@
 ### liseuk || sorohimm || himmzso
 
-## Golang Master of Sports
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorohimm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![sorohimm's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorohimm&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
